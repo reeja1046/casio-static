@@ -1,0 +1,595 @@
+.white{
+     height: 30px;
+     width: 100%;
+     text-align: right;
+     background-color: whitesmoke;
+}
+.text1{
+    font-size: 12px;
+    color: rgb(44, 43, 43);
+    cursor: pointer;
+    margin-right: 50px;
+}
+.text2{
+    font-size: 12px;
+    color: rgb(44, 43, 43);
+    cursor: pointer;
+    margin-right: 100px;
+}
+.first_white{
+    position: relative;
+    height: 60px;
+    width: 100%;  
+}
+.casio{
+   width: 90px;
+   height: 60px;
+   margin-left: 80px;
+   cursor: pointer;
+}
+.watch{
+    position: absolute;
+    top: 20px;
+    margin-left:310px;
+    font-size: 13px;
+    color: rgb(44, 43, 43);
+}
+.instrument{
+    position: absolute;
+    top: 20px;
+    margin-left:390px;
+    font-size: 13px;
+    color: rgb(44, 43, 43);
+}
+.calc{
+    position: absolute;
+    top: 20px;
+    margin-left:600px;
+    font-size: 13px;
+    color: rgb(44, 43, 43);
+}
+.others{
+    position: absolute;
+    top: 20px;
+    margin-left: 700px;
+    font-size: 13px;
+    color: rgb(44, 43, 43);
+}
+.search{
+    cursor: pointer;
+    position: absolute;
+    margin-left: 1190px;
+    top: 20px;
+    width: 20px;
+    height: 20px;
+}
+.heart{
+    cursor: pointer;
+    position: absolute;
+    margin-left: 1230px;
+    top: 20px;
+    width: 20px;
+    height: 20px;
+}
+.pic-4{
+    cursor: pointer;}
+.img_4{
+    position: relative;
+}
+.scn-calc{
+    position: absolute;
+    bottom: 190px;
+    right: 60px;
+    cursor: pointer;
+    font-size: 60px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+.new{
+    width: 100%;
+    height: 200px;
+    position: relative;
+}
+.arrivals{
+    position: relative;
+    top: 70px;
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    margin-left: 60px;
+}
+.watch-pics{
+    width: 100%;
+    height: 450px;
+    position: relative; 
+}
+
+.pic1{
+    position: absolute;
+    left: 120px;
+    width: 250px;
+    height: 300px;
+    cursor: pointer;
+}
+.pic2{
+    position: absolute;
+    left: 400px;
+    width: 250px;
+    height: 300px;
+    cursor: pointer;
+}
+.pic3{
+    position: absolute;
+    left: 680px;
+    width: 250px;
+    height: 300px;
+    cursor: pointer;
+}
+.pic4{
+    position: absolute;
+    left: 960px;
+    width: 250px;
+    height: 300px;
+    cursor: pointer;
+}
+.baby{
+    position: absolute;
+    bottom: 130px;
+    left: 200px;
+    cursor: pointer;
+    font-size: 15px;
+}
+.bgd{
+    position: absolute;
+    bottom: 85px;
+    left: 200px;
+    cursor: pointer;
+    font-size: 18px;
+}
+.mrp{
+    position: absolute;
+    bottom: 60px;
+    left: 200px;
+    cursor: pointer;
+    font-size: 10px;
+}
+.price1{
+    position: absolute;
+    bottom: 30px;
+    left: 200px;
+    cursor: pointer;
+    font-size: 18px;
+}
+.casio1{
+    position: absolute;
+    bottom: 130px;
+    left: 450px;
+    cursor: pointer;
+    font-size: 15px;
+}
+.mtd{
+    position: absolute;
+    bottom: 85px;
+    left: 450px;
+    cursor: pointer;
+    font-size: 18px;
+}
+.mrp1{
+    position: absolute;
+    bottom: 60px;
+    left: 450px;
+    cursor: pointer;
+    font-size: 10px;
+}
+.price2{
+    position: absolute;
+    bottom: 30px;
+    left: 450px;
+    cursor: pointer;
+    font-size: 18px;
+}
+.casio2{
+    position: absolute;
+    bottom: 130px;
+    left: 730px;
+    cursor: pointer;
+    font-size: 15px;
+}
+.mtd-130{
+    position: absolute;
+    bottom: 85px;
+    left: 730px;
+    cursor: pointer;
+    font-size: 18px;
+}
+.mrp2{
+    position: absolute;
+    bottom: 60px;
+    left: 730px;
+    cursor: pointer;
+    font-size: 10px;
+}
+.price3{
+    position: absolute;
+    bottom: 30px;
+    left: 730px;
+    cursor: pointer;
+    font-size: 18px;
+}
+.casio3{
+    position: absolute;
+    bottom: 130px;
+    left: 1000px;
+    cursor: pointer;
+    font-size: 15px;
+}
+.mtd-130d{
+    position: absolute;
+    bottom: 85px;
+    left: 1000px;
+    cursor: pointer;
+    font-size: 18px;
+}
+.mrp3{
+    position: absolute;
+    bottom: 60px;
+    left: 1000px;
+    cursor: pointer;
+    font-size: 10px;
+}
+.price4{
+    position: absolute;
+    bottom: 30px;
+    left: 1000px;
+    cursor: pointer;
+    font-size: 18px;
+}
+.pick{
+    width: 100%;
+    height: 130px;
+    position: relative;
+}
+.up{
+    position: relative;
+    top: 30px;
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    margin-left: 80px;
+}
+
+.pickuppics{
+    position: relative;
+    width: 100%;
+    height: 380px;
+}
+.brand{
+    position: absolute;
+    bottom: 30px;
+    left: 120px;
+    cursor: pointer;
+    font-size: 15px;
+}
+.GA{
+    position: absolute;
+    bottom: 30px;
+    left: 450px;
+    cursor: pointer;
+    font-size: 15px;
+}
+.sentence1{
+    position: absolute;
+    bottom: 0px;
+    left: 450px;
+    cursor: pointer;
+    font-size: 15px;
+}
+.GM{
+    position: absolute;
+    bottom: 30px;
+    left: 810px;
+    cursor: pointer;
+    font-size: 15px;
+}
+.sentence2{
+    position: absolute;
+    bottom: 0px;
+    left: 810px;
+    cursor: pointer;
+    font-size: 15px;
+}
+.casiotone{
+    position: absolute;
+    bottom: 30px;
+    left: 1180px;
+    cursor: pointer;
+    font-size: 15px;
+}
+.picz1{
+    position: absolute;
+    margin-left: 100px;
+    width: 310px;
+    height: 290px;
+    cursor: pointer;
+}
+.picz2{
+    position: absolute;
+    margin-left: 460px;
+    width: 310px;
+    height: 290px;
+    cursor: pointer;
+}
+.picz3{
+    position: absolute;
+    margin-left: 815px;
+    width: 310px;
+    height: 290px;
+    cursor: pointer;
+}
+.picz4{
+    position: absolute;
+    margin-left: 1160px;
+    width: 310px;
+    height: 290px;
+    cursor: pointer;
+}
+.product{
+    width: 100%;
+    height: 200px;
+    position: relative;
+}
+.category{
+    position: relative;
+    top: 30px;
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    margin-left: 80px;
+}
+.product-category{
+    position: relative;
+    width: 100%;
+    height: 450px;
+}
+.pics1{
+    position: absolute;
+    margin-left: 100px;
+    width: 260px;
+    height: 210px;
+    cursor: pointer;
+}
+.pics2{
+    position: absolute;
+    margin-left: 380px;
+    width: 260px;
+    height: 210px;
+    cursor: pointer;
+}
+.pics3{
+    position: absolute;
+    margin-left: 620px;
+    width: 260px;
+    height: 210px;
+    cursor: pointer;
+}
+.pics4{
+    position: absolute;
+    margin-left: 960px;
+    width: 260px;
+    height: 230px;
+    cursor: pointer;
+}
+.pics5{
+    position: absolute;
+    margin-left: 1230px;
+    width: 260px;
+    height: 210px;
+    cursor: pointer;
+}
+.pics1:hover{
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+    transform: scale(1.1); ; 
+}
+.pics2:hover{
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+    transform: scale(1.1); ; 
+}
+.pics3:hover{
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+    transform: scale(1.1); ; 
+}
+.pics4:hover{
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+    transform: scale(1.1); ; 
+}
+.pics5:hover{
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+    transform: scale(1.1); ; 
+}
+.watches{
+    position: absolute;
+    bottom: 150px;
+    left: 150px;
+    cursor: pointer;
+}
+.scientific{
+    position: absolute;
+    bottom: 150px;
+    left: 430px;
+    cursor: pointer;
+}
+.basic{
+    position: absolute;
+    bottom: 150px;
+    left: 650px;
+    cursor: pointer;
+}
+.electronic{
+    position: absolute;
+    bottom: 150px;
+    left: 950px;
+    cursor: pointer;
+}
+.printer{
+    position: absolute;
+    bottom: 150px;
+    left: 1290px;
+    cursor: pointer;
+}
+.home{
+    position: absolute;
+    bottom: 3px;
+    font-size: 12px;
+    left: 60px;
+}
+.sec-last{
+    position: relative;
+    height: 350px;
+    width: 100%;
+    background-color:whitesmoke;
+}
+.product1{
+    position: absolute;
+    left: 220px;
+    top: 40px;
+}
+.product2{
+    position: absolute;
+    left: 220px;
+    top: 130px;
+    cursor: pointer;
+}
+.customer{
+    position: absolute;
+    left: 620px;
+    top: 40px;
+}
+.support{
+    position: absolute;
+    left: 620px;
+    top: 130px;
+    cursor: pointer;
+}
+.corporate{
+    position: absolute;
+    left: 1050px;
+    top: 40px;
+}
+.corporate2{
+    position: absolute;
+    left: 1050px;
+    top: 130px;
+    cursor: pointer;
+}
+.logo1{
+    position: absolute;
+    left: 60px;
+    top: 210px;
+    cursor: pointer;
+}
+.logo2{
+    position: absolute;
+    left: 100px;
+    top: 210px;
+    cursor: pointer;
+}
+.logo3{
+    position: absolute;
+    left: 140px;
+    top: 210px;
+    cursor: pointer;
+}
+.logo4{
+    position: absolute;
+    left: 180px;
+    top: 210px;
+    cursor: pointer;
+}
+.logo5{
+    position: absolute;
+    left: 220px;
+    top: 210px;
+    cursor: pointer;
+}
+.txt1{
+    position: absolute;
+    left: 60px;
+    top: 280px;
+    cursor: pointer;
+    font-size: 13px;
+}
+.txt2{
+    position: absolute;
+    left: 200px;
+    top: 280px;
+    cursor: pointer;
+    font-size: 13px;
+}
+.txt3{
+    position: absolute;
+    left: 350px;
+    top: 280px;
+    cursor: pointer;
+    font-size: 13px;
+}
+.txt4{
+    position: absolute;
+    left: 450px;
+    top: 280px;
+    cursor: pointer;
+    font-size: 13px;
+}
+.txt5{
+    position: absolute;
+    left: 550px;
+    top: 280px;
+    cursor: pointer;
+    font-size: 13px;
+}
+.txt6{
+    position: absolute;
+    left: 660px;
+    top: 280px;
+    cursor: pointer;
+    font-size: 13px;
+}
+.txt7{
+    position: absolute;
+    left: 780px;
+    top: 280px;
+    cursor: pointer;
+    font-size: 13px;
+}
+.txt8{
+    position: absolute;
+    left: 890px;
+    top: 280px;
+    cursor: pointer;
+    font-size: 13px;
+}
+.txt9{
+    position: absolute;
+    left: 1000px;
+    top: 280px;
+    cursor: pointer;
+    font-size: 13px;
+}
+.txt10{
+    position: absolute;
+    left: 60px;
+    bottom: 20px;
+    cursor: pointer;
+    font-size: 10px;
+}
+.footer{
+    background-color: rgb(250, 243, 243);
+    width: 100%;
+    height: 80px;
+    font-size: 15px;
+}
